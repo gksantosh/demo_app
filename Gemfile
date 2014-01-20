@@ -5,6 +5,8 @@ gem 'rails', '3.0.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'bundler', '1.0.0'
+
 #gem 'sqlite3-ruby', require => 'sqlite3'
 gem 'sqlite3-ruby', '1.2.5', :group => :development
 
