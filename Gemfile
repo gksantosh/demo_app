@@ -4,6 +4,7 @@ gem 'rails', '3.2.13'
 #gem 'rails', '3.0.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
+gem 'activerecord-postgresql-adapter', '~> 0.0.1'
 
 #gem 'bundler', '~> 1.0.0'
 
